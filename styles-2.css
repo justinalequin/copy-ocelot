@@ -1,0 +1,195 @@
+.top-ad {
+
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin: 20px;
+}
+
+.mainbodycenter {
+
+
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-left: 155px;
+    height: 1100px;
+}
+
+.mainbody {
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+
+}
+
+.top-stories {
+    background: white;
+    border-radius: 5px;
+    width: 825px;
+    padding-left: 18px;
+    padding-top: 18px;
+   
+    display: flex;
+
+}
+
+.top-stories-text p {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.top-stories-weather {
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: white solid 10px;
+    border-left: white solid 30px;
+    border-right:white solid 25px;
+    width: 788px;
+
+    
+}
+
+#weather-banner {
+    width: 788px;
+
+}
+
+
+
+.top-stories-stories {
+
+    display: flex;
+
+}
+
+.main-story-side {
+
+    width: 500px;
+
+}
+
+.main-story {
+
+}
+
+#cute {
+    width: 496px;
+    height: 250px;
+    border-radius: 5px;
+}
+
+.main-story-text {
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.text-story-1 {
+    display: flex;
+
+}
+
+.text-story-1 p:hover {
+    color: blue;
+}
+
+.text-story-2 {
+    display: flex;
+
+}
+
+.text-story-2 p:hover {
+    color: blue;
+}
+
+
+
+.text-story-3 {
+    display: flex;
+
+}
+
+.text-story-3 p:hover {
+    color: blue;
+}
+
+
+
+.more-stories {
+    margin-left: 30px;
+    background: #1B4DE4;
+    width: 108px;
+    height: 32px;
+    border-radius: 18px;
+    padding-left: 20px;
+    padding-right: 10px;
+
+   
+}
+
+.more-stories p {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 5px;
+}
+
+
+.video-icon {
+    width: 24px;
+    height: 17px;
+    margin-top: 17px;
+}
+
+.video-icon:hover {
+    color: blue;
+}
+
+.dj {
+    height: 137px;
+    width: 244px;
+}
+
+.top-stories-ad-side {
+
+    width: 250px;
+    padding-left: 10px;
+}
+
+.army {
+    height: 137px;
+    width: 244px;
+}
+
+.pa {
+    height: 137px;
+    width: 244px;
+}
+
+.ad-column {
+    height: 1100px;
+    width: 360px;
+    padding-left: 10px;
+    align-content: space-between;
+
+}
+
+#ad1 {
+
+}
+
+#ad2 {
+
+}
+
+#ad3 {
+    border: white solid 10px;
+    border-radius: 6px;
+}
+
+#ad4 {
+    margin-top: 10px;
+    border: white solid 10px;
+    border-radius: 6px;
+
+}
+

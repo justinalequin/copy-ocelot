@@ -1,0 +1,140 @@
+
+.bottom-ad {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.footer {
+   background: white;
+   padding-bottom: 30px;
+ 
+}
+
+.footer-1 {
+    margin-top: 30px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-1-left {
+    margin-left: 150px;
+    display: flex;
+}
+
+.footer-1-left p {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.footer-1-left svg {
+    width: 22px;
+    height: 22px;
+    border: 10px solid #cfdaf9;
+    border-radius: 40px;
+    background: #cfdaf9;
+        
+}
+
+.facebook {
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.twitter {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.instagram {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.youtube {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.footer-1-right {
+    margin-right: 150px;
+    display: flex;
+}
+
+.theweathercompany {
+    width: 70px;
+    height: 70px;
+}
+
+.twc-small {
+    width: 35px;
+    height: 35px;
+    margin: 12px;
+
+}
+
+.wu-icon {
+    width: 50px;
+    height: 50px;
+}
+
+.footer-2 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 750px;
+    width: 400px;
+}
+
+.footer-2 p {
+    font-size: smaller;
+}
+
+.footer-3 {
+    font-size: small;
+    font-weight: bold;
+    margin-left: 775px;
+}
+
+.footer-4 {
+    margin-left: 900px;
+}
+
+.footer-5 {
+    margin-left: 685px;
+}
+
+.footer-5 p {
+    font-size: small;
+}
+
+.footer-6 {
+    margin-left: 765px;
+}
+
+.footer-6 p {
+    font-size: small;
+    font-weight: bold;
+}
+
+.footer-7 {
+    margin-left: 795px;
+}
+
+.footer-7 p {
+    font-size: small;
+    }
+
+.footer-8 {
+    display: flex;
+    margin-left: 850px;
+}
+
+.footer-8 p {
+    font-size: smaller;
+}
+
+#cloudlogo {
+    margin-left: 20px;
+    margin-right: 20px;
+}
